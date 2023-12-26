@@ -6,7 +6,7 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title:
-    "Shiv Kumar Prajapat Front-End Developer Portfolio - Expert in Responsive Web Design, UI/UX Excellence and Web Development",
+    "Expert Front-End Developer | ReactJS, NextJS, Tailwind | Web Enthusiast",
   description:
     "Explore Sophie Smith's frontend developer portfolio, featuring a mastery of responsive web design, sleek UI/UX, and cutting-edge technologies. Elevate your digital projects with a developer committed to creating visually stunning and seamlessly functional websites. Contact Sophie for collaborative opportunities in bringing your web presence to the forefront of innovation.",
   applicationName: "Portfolio",
@@ -14,7 +14,7 @@ export const metadata: Metadata = {
   keywords: ["Next.js", "React", "JavaScript"],
   authors: [
     {
-      name: "Shiv Kumar Prajapat Front-End Developer Portfolio - Expert in Responsive Web Design, UI/UX Excellence and Web Development",
+      name: "Expert Front-End Developer | ReactJS, NextJS, Tailwind | Web Enthusiast",
       url: "https://nextjs.org",
     },
   ],
@@ -23,21 +23,21 @@ export const metadata: Metadata = {
   openGraph: {
     siteName: "Next.js",
     title:
-      "Shiv Kumar Prajapat Front-End Developer Portfolio - Expert in Responsive Web Design, UI/UX Excellence and Web Development",
+      "Expert Front-End Developer | ReactJS, NextJS, Tailwind | Web Enthusiast",
     description:
       "Explore Sophie Smith's frontend developer portfolio, featuring a mastery of responsive web design, sleek UI/UX, and cutting-edge technologies. Elevate your digital projects with a developer committed to creating visually stunning and seamlessly functional websites. Contact Sophie for collaborative opportunities in bringing your web presence to the forefront of innovation.",
     url: "https://shivprajapat.vercel.app",
-    // images: "https://i.postimg.cc/V6dyv8LV/portfolio-og-twitter.jpg",
+    // images: "https://i.postimg.cc/sDBpc0vC/Group-59.jpg",
     locale: "en_US",
     type: "website",
     images: [
       {
-        url: "https://i.postimg.cc/V6dyv8LV/portfolio-og-twitter.jpg",
+        url: "https://i.postimg.cc/sDBpc0vC/Group-59.jpg",
         width: 800,
         height: 600,
       },
       {
-        url: "https://i.postimg.cc/V6dyv8LV/portfolio-og-twitter.jpg",
+        url: "https://i.postimg.cc/sDBpc0vC/Group-59.jpg",
         width: 1800,
         height: 1600,
         alt: "My custom alt",
@@ -54,7 +54,9 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body className={inter.className}>{children}</body>
+      <body className={inter.className}>{children}
+      
+      <img src="https://i.postimg.cc/sDBpc0vC/Group-59.jpg" alt="" /></body>
     </html>
   );
 }
