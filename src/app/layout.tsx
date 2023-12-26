@@ -32,12 +32,12 @@ export const metadata: Metadata = {
     type: "website",
     images: [
       {
-        url: "https://raw.githubusercontent.com/yudiz-shiv/next-app-seo/main/public/twitter.jpg",
+        url: "https://lh3.googleusercontent.com/drive-viewer/AEYmBYSW0J89JkC3o8j0MJ6Ih6s40cfvcnjxgguL8toDC0zYZF0BldZzfh0hM_gpKxUvlrssoCk7W-fBanBarVVhlsFJEKv6KQ=w1920-h857",
         width: 800,
         height: 600,
       },
       {
-        url: "https://raw.githubusercontent.com/yudiz-shiv/next-app-seo/main/public/twitter.jpg",
+        url: "https://lh3.googleusercontent.com/drive-viewer/AEYmBYSW0J89JkC3o8j0MJ6Ih6s40cfvcnjxgguL8toDC0zYZF0BldZzfh0hM_gpKxUvlrssoCk7W-fBanBarVVhlsFJEKv6KQ=w1920-h857",
         width: 1800,
         height: 1600,
         alt: "My custom alt",
