@@ -55,8 +55,6 @@ export default function RootLayout({
   return (
     <html lang="en">
       <body className={inter.className}>{children}
-      
-      <img src="https://i.postimg.cc/sDBpc0vC/Group-59.jpg" alt="" /></body>
-    </html>
+          </html>
   );
 }
