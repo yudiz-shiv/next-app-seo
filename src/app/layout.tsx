@@ -27,17 +27,16 @@ export const metadata: Metadata = {
     description:
       "Explore Sophie Smith's frontend developer portfolio, featuring a mastery of responsive web design, sleek UI/UX, and cutting-edge technologies. Elevate your digital projects with a developer committed to creating visually stunning and seamlessly functional websites. Contact Sophie for collaborative opportunities in bringing your web presence to the forefront of innovation.",
     url: "https://shivprajapat.vercel.app",
-    // images: "https://i.postimg.cc/sDBpc0vC/Group-59.jpg",
     locale: "en_US",
     type: "website",
     images: [
       {
-        url: "https://i.postimg.cc/sDBpc0vC/Group-59.jpg",
+        url: "https://miro.medium.com/v2/resize:fit:1000/1*KDMx1YspSrBcFJG-NDZgDg.png",
         width: 800,
         height: 600,
       },
       {
-        url: "https://i.postimg.cc/sDBpc0vC/Group-59.jpg",
+        url: "https://miro.medium.com/v2/resize:fit:1000/1*KDMx1YspSrBcFJG-NDZgDg.png",
         width: 1800,
         height: 1600,
         alt: "My custom alt",
