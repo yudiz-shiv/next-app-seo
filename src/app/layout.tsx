@@ -43,7 +43,6 @@ export const metadata: Metadata = {
       },
     ],
     countryName: "india",
-    
   },
 };
 export default function RootLayout({
@@ -53,7 +52,7 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body className={inter.className}>{children}
-          </html>
+      <body className={inter.className}>{children}</body>
+    </html>
   );
 }
